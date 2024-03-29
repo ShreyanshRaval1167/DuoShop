@@ -1,2 +1,0 @@
-# DuoShop
-College Project
